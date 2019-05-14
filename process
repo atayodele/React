@@ -1,0 +1,12 @@
+======== REACT JS =========
+mkdir bookworm
+cd bookworm
+npx create-react-app bookworm-react
+cd bookworm-react 
+code .
+create .eslintrc file
+
+To create Route ==> npm add react-route
+npm add react-router-dom
+
+
