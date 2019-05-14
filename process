@@ -9,4 +9,9 @@ create .eslintrc file
 To create Route ==> npm add react-route
 npm add react-router-dom
 
+INSTALL SEMANTIC UI
+npm add semantic-ui-react semantic-ui-css
+
+After installation, Goto index.js and import this to it
+import "semantic-ui-css/semantic.min.css";
 
