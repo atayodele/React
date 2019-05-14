@@ -16,3 +16,14 @@ After installation, Goto index.js and import this to it
 import "semantic-ui-css/semantic.min.css";
 
 email validator ==> npm add validator
+
+npm add prop-types
+
+ADD REDUX
+npm add redux react-redux redux-thunk
+AFTER SUCCESSFUL INSTALLATION IMPORT THE FOLLOWING TO THE INDEX.JS
+import { createStore, applyMiddleware } from 'redux';
+import { Provider } from 'react-redux';
+import thunk from 'redux-thunk';
+
+npm add --dev redux-devtools-extension
